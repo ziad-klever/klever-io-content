@@ -1,8 +1,8 @@
 ---
 # page title
-title_page: "أصول"
+title_page: "Assets"
 # meta title
 title: "Multi Cryptocurrency Wallet for Bitcoin, Ethereum, Litecoin, Tron and more | Klever Wallet "
 # meta description
-description : "محفظة عملات رقمية ذكية وآمنة تدعم بيتكوين, ترون, إيثيريوم, بينانس, لايتكوين, تيثر, وغيرها من العملات. ولا يزال هناك متسع كبير للإضافات."
+description : "Smart and secure crypto wallet for Bitcoin (BTC), TRON (TRX), Ethereum (ETH), Binance (BNB), Litecoin (LTC), USD Stablecoins (USDT) and other top cryptocurrency assets. And growing … there is still a lot of room for additions."
 ---
